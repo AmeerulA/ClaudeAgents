@@ -1,0 +1,12 @@
+# Ignore everything
+*
+
+# Except these directories
+!agents/
+!agents/**
+!reference/
+!reference/**
+
+# Except these files
+!README.md
+!.gitignore
